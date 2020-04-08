@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Photos (1)</folder>
+	<filename>apple_07.jpg</filename>
+	<path>/home/hoaithuong/Downloads/CV/data/Photos (1)/apple_07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1297</xmin>
+			<ymin>801</ymin>
+			<xmax>2744</xmax>
+			<ymax>2201</ymax>
+		</bndbox>
+	</object>
+</annotation>
